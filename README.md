@@ -10,8 +10,8 @@
 
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
-<br />
+
+
 <br />
 
 I'm a year 2 student studying computer engineering in the Hong Kong University of Science and Technology, developing and implementing applications and solutions using a range of technologies and programming languages.
