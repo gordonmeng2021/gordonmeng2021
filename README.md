@@ -10,7 +10,7 @@
 
 <br />
 
-I'm a year 2 student studying computer engineering in the Hong Kong University of Science and Technology, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a year 3 student studying computer engineering in the Hong Kong University of Science and Technology, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
 I'm currently based in **[HONG KONG.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
